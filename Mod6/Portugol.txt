@@ -1,12 +1,12 @@
-1 Ao Acordar, eu abro os olhos
-2 levanto da cama 
-3 Após levantar, eu vou diretamente ate a porta do quarto 
-4 Ao chegar a porta, eu abro
-5 Após abrir a porta, eu vou em direção ao banheiro 
-6 após entrar no banheiro, lavo o rosto
-7 Após lavar o rosto, eu escovo os dentes
-8 após escovar os dentes, eu vou para o meu lugar de estudo
-9 Após sentar na cadeira, eu ligo o computador
-10 Após ligar o computador, eu pego o mause e teclado e entro no meu e-mail
-11 Após entrar no meu e-mail, eu verifico o que tenho para estudar
-12 Apos verificar o que eu tenho para estudar, eu começo a estudar até dar a horado do almoço
+1 - Ao Acordar, eu abro os olhos
+2 - Levanto da cama 
+3 - Após levantar, eu vou diretamente ate a porta do quarto 
+4 - Ao chegar a porta, eu abro
+5 - Após abrir a porta, eu vou em direção ao banheiro 
+6 - Após entrar no banheiro, lavo o rosto
+7 - Após lavar o rosto, eu escovo os dentes
+8 - Após escovar os dentes, eu vou para o meu lugar de estudo
+9 - Após sentar na cadeira do meu lugar de estudo, eu ligo o computador
+10 - Após ligar o computador, eu pego o mause e teclado e entro no meu e-mail
+11 - Após entrar no meu e-mail, eu verifico o que tenho para estudar
+12 - Apos verificar o que eu tenho para estudar, eu começo a estudar até dar a horado do almoço
