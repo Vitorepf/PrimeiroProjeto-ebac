@@ -1,8 +1,6 @@
 ﻿# Exercício Módulo 11
 Essa atividade é dividida em duas partes.
 
-Parte 1-
-    Leia vários nomes, separados por virgula, coloque em algum tipo de Coleção e imprima em ordem alfabetica
 
 
 Parte 2-
